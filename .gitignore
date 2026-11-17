@@ -1,0 +1,4 @@
+#Terraform downloads and state
+.terraform/
+*.tfstate
+*.tfstate.*
